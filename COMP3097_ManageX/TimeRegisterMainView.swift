@@ -76,7 +76,7 @@ struct TimeRegisterMainView: View {
         calculateDuration(from: clockIn, to: clockOutTime!)
     }
 
-    // Calculate Duration
+    // Calculating  Duration
     func calculateDuration(from start: Date, to end: Date) {
         let timeInterval = end.timeIntervalSince(start)
         let hours = Int(timeInterval) / 3600

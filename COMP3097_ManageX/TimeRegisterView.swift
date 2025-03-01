@@ -16,7 +16,7 @@ struct TimeRegisterView: View {
     var body: some View {
         VStack {
             if isAuthenticated {
-                TimeRegisterMainView() // Navigate to the main Time Register page
+                TimeRegisterMainView() // Navigate to the main Time Registering page
             } else {
                 VStack {
                     Text("Time Register Login")
