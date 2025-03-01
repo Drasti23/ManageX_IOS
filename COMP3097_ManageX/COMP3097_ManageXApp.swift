@@ -4,14 +4,13 @@
 //
 //  Created by Drasti Parikh on 2025-02-28.
 //
-
 import SwiftUI
 
 @main
-struct COMP3097_ManageXApp: App {
+struct ManageXApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreenView()
         }
     }
 }
