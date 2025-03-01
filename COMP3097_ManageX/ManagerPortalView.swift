@@ -49,14 +49,14 @@ struct ManagerPortalView: View {
                     .fontWeight(.bold)
                     .padding(.top, 50)
 
-                // Manager ID Text Field
+                //ID Text Field
                 TextField("Enter Manager ID", text: $managerId)
                     .keyboardType(.numberPad)
                     .textFieldStyle(RoundedBorderTextFieldStyle())
                     .padding()
                     .frame(maxWidth: 300)
 
-                // Manager Password Secure Field
+                //Password Secure Field
                 SecureField("Enter Password", text: $managerPassword)
                     .keyboardType(.numberPad)
                     .textFieldStyle(RoundedBorderTextFieldStyle())
