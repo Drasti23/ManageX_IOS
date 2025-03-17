@@ -5,11 +5,6 @@ Effortlessly manage employees, orders, and time tracking in your restaurant. �
 - [📌 Overview](#-overview)  
 - [🚀 Features](#-features)  
 - [🛠️ Tech Stack](#-tech-stack)  
-- [📂 Project Structure](#-project-structure)  
-- [⚙️ Setup & Installation](#️-setup--installation)  
-- [🖥️ Usage Guide](#-usage-guide)  
-- [🚀 Future Improvements](#-future-improvements)  
-- [📞 Contact](#-contact)  
 
 ---  
 
@@ -33,4 +28,5 @@ ManageX is a **restaurant management system** designed for small business owners
 🔹 **Combine Framework** - Handling real-time updates  
 🔹 **MVVM Architecture** - Modular code structure for scalability  
 
+---
 
