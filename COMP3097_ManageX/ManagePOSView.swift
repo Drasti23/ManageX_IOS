@@ -1,10 +1,3 @@
-//
-//  ManagePOSView.swift
-//  COMP3097_ManageX
-//
-//  Created by Om Makwana on 2025-03-01.
-//
-
 import SwiftUI
 
 struct ManagePOSView: View {
